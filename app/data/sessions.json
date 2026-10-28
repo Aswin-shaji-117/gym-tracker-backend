@@ -1,0 +1,80 @@
+[
+  {
+    "id": "30349719-24f1-47e3-9c34-885ec9fdee8e",
+    "user_id": "e4198f36-c5be-4da1-9abf-b7fde5a90aef",
+    "plan_id": "7195f11f-3b6d-47ac-a207-9b8166159eef",
+    "date": "2026-10-28",
+    "title": "Chest and Triceps",
+    "notes": "",
+    "exercises": [
+      {
+        "name": "Bench press ",
+        "muscle_group": "Chest",
+        "sets": [
+          {
+            "set_number": 1,
+            "reps": 10,
+            "weight_kg": 60.0
+          },
+          {
+            "set_number": 2,
+            "reps": 10,
+            "weight_kg": 60.0
+          },
+          {
+            "set_number": 3,
+            "reps": 10,
+            "weight_kg": 60.0
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Incliend Bench Presss",
+        "muscle_group": "Chest",
+        "sets": [
+          {
+            "set_number": 1,
+            "reps": 10,
+            "weight_kg": 13.0
+          },
+          {
+            "set_number": 2,
+            "reps": 10,
+            "weight_kg": 13.0
+          },
+          {
+            "set_number": 3,
+            "reps": 10,
+            "weight_kg": 13.0
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "name": "Pec tech fly",
+        "muscle_group": "Chest",
+        "sets": [
+          {
+            "set_number": 1,
+            "reps": 10,
+            "weight_kg": 47.0
+          },
+          {
+            "set_number": 2,
+            "reps": 10,
+            "weight_kg": 47.0
+          },
+          {
+            "set_number": 3,
+            "reps": 10,
+            "weight_kg": 47.0
+          }
+        ],
+        "notes": ""
+      }
+    ],
+    "created_at": "2026-10-28T11:41:28.204716+00:00",
+    "updated_at": "2026-10-28T11:41:28.204716+00:00"
+  }
+]

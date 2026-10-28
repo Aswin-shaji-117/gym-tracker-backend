@@ -1,0 +1,9 @@
+[
+  {
+    "id": "e4198f36-c5be-4da1-9abf-b7fde5a90aef",
+    "name": "Aswin s",
+    "email": "aswinshajilias117@gmail.com",
+    "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$7HSh7UpfnJx5BzZZIsDBsw$DBlXart+4fZBuWbhiGtHb4YF7wXP61ohOVizSBzef10",
+    "created_at": "2026-10-28T11:06:57.081214+00:00"
+  }
+]
